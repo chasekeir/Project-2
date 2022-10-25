@@ -6,5 +6,6 @@
 
 ## Intentional Homicides in Africa and Eastern Asia
 
+![Graph 2](Graph2.png)
 
 [Project Instructions](https://github.com/mikeizbicki/cmc-csci040/tree/2022fall/project_02)
