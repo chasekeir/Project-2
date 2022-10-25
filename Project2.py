@@ -14,7 +14,7 @@ for key in senators['objects']:
         femaleKey+=1
 genderdict = ['male', 'female']
 numberdict = [maleKey, femaleKey]
-
+print(maleKey)
 
 
 import matplotlib.pyplot as plt
