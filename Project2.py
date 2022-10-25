@@ -14,7 +14,6 @@ for key in senators['objects']:
         femaleKey+=1
 genderdict = ['male', 'female']
 numberdict = [maleKey, femaleKey]
-print(maleKey)
 
 
 import matplotlib.pyplot as plt
@@ -44,8 +43,6 @@ for row in exampleReader:
         homicideB.append(double(row[4]))
 
 yeardict = ['2005', '2010', '2015', '2020']
-print(homicideA)
-print(homicideB)
 
 
 
