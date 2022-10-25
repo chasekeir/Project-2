@@ -2,7 +2,7 @@
  Project 2 for CSCI040
 ## Gender Breakdown of the Members of the Senate
 
-!(Graph1.png)
+![Graph 1](Graph1.png)
 
 ## Intentional Homicides in Africa and Eastern Asia
 
